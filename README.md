@@ -1,16 +1,14 @@
-# Node Template
+# Learn Kubernetes
 
-> A Repository Template for `NodeJS` Projects.
+> Links, resources, and code related to my learning of `Kubernetes` container-orchestration system.
+
+(`Kubernetes`)[https://kubernetes.io/] is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation.
 
 ---
 
 ## Links & Resources
 
-* [`commitlint`](https://github.com/conventional-changelog/commitlint) Lint commit messages.
-  * [`commitlint-config-gitmoji`](https://github.com/arvinxx/commitlint-config-gitmoji) Commitlint config enforcing gitmoji rules.
-  * [Rules](https://github.com/conventional-changelog/commitlint/blob/master/docs/reference-rules.md)
-* [`husky`](https://github.com/typicode/husky) Git hooks made easy.
-* [`np`](https://github.com/sindresorhus/np) A better npm publish.
+* [Documentation](https://kubernetes.io/docs/home/)
 
 ---
 
