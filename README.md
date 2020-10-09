@@ -16,6 +16,7 @@
 
 ```md
 .
+├── k8s                  # Deploy manifest examples
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
 ├── .np-config.json      # NPM publish (np) configuration
