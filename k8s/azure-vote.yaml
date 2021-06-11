@@ -1,6 +1,5 @@
-# ------------------- #
-# k8s/azure-vote.yaml #
-# ------------------- #
+# k8s/azure-vote.yaml
+# -------------------
 
 apiVersion: apps/v1
 kind: Deployment
