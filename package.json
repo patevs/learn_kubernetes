@@ -18,20 +18,5 @@
     "commitlint-config-gitmoji": "^2.2.10",
     "husky": "^8.0.3",
     "np": "^7.6.3"
-  },
-  "commitlint": {
-    "extends": [
-      "gitmoji"
-    ],
-    "rules": {
-      "subject-empty": [
-        0,
-        "never"
-      ],
-      "type-empty": [
-        0,
-        "never"
-      ]
-    }
   }
 }
